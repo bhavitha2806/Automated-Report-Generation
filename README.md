@@ -18,3 +18,4 @@ The objective is to create a Python script that reads data from a structured fil
 
 OUTPUT:
 
+[sample_report.pdf](https://github.com/user-attachments/files/21505353/sample_report.pdf)
